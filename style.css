@@ -15,7 +15,6 @@ body, html{
     border: 2px solid;
     background-color: black;
     color: beige;
-    /* padding: 0%; */ /* ¿conflicto? */
     margin: 0%;
     
 }
@@ -73,9 +72,6 @@ footer{
     background-color: black;
     color: white;
     padding: 10px;
-     /* display: flex;
-    align-items: flex-end; */
-    /* position: sticky; */
     bottom: 0;
     width: 100%;
 }
